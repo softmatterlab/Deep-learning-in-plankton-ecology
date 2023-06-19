@@ -11,3 +11,5 @@ We provide ready-to-use code for the following tasks:
 - Plankton detection (Under the folder `Detection-examples`)
 - Plankton segmentation and classification (Under the folder `Segmentation-examples`)
 - Plankton trajectory linking (Under the folder `Trajectory-examples`)
+
+Google colab links for the respective examples will be added shortly.
