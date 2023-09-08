@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Deep learning in plankton ecology
+message: >-
+  If you use this software, please cite it through this
+  publication: Harshith Bachimanchi, Matthew I. M. Pinder,
+  Chloé Robert, Pierre De Wit, Jonathan Havenhand, Alexandra
+  Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
+  "Deep-learning-powered data analysis in plankton ecology".
+type: software
+authors:
+  - given-names: Harshith
+    family-names: Bachimanchi
+    email: harshith.bachimanchi@physics.gu.se
+    orcid: "https://orcid.org/0000-0001-9497-8410"
+  - given-names: Giovanni
+    family-names: Volpe
+    email: giovanni.volpe@physics.gu.se
+    orcid: "https://orcid.org/0000-0001-5057-1846"
