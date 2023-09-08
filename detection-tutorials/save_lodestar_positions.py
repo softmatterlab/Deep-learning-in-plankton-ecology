@@ -1,4 +1,6 @@
-#%%
+# %%
+# This code is not part of the tutorial, but is used to save the positions obtained from the LodeSTAR model, form trajectory linking application.
+
 import deeptrack as dt
 import numpy as np
 
@@ -22,13 +24,13 @@ alpha = 0.1
 cutoff = 0.1
 downsample = 2
 
-test_frame  =  video_frames[0][:,:,0]
+test_frame = video_frames[0][:, :, 0]
 test_frame = test_frame.reshape(1, *test_frame.shape, 1)
 test_frame.shape
 
 a, b = model.predict(test_frame)
-#%%
-plt.imshow( np.log(b[0, :, :, 0]), cmap="gray")
+# %%
+plt.imshow(np.log(b[0, :, :, 0]), cmap="gray")
 plt.show()
 
 plt.imshow(a[0, :, :, 0] * np.log(b[0, :, :, 0]), cmap="gray")
@@ -46,13 +48,19 @@ detections = np.array(detections, dtype=int) * downsample
 # %%
 # plot detections
 import matplotlib.pyplot as plt
-plt.imshow(test_frame[0,:,:,0], cmap="gray")
-[plt.plot(d[1], d[0], "o", markerfacecolor="None", markeredgecolor="r", markersize=10) for d in detections[0] ]
+
+plt.imshow(test_frame[0, :, :, 0], cmap="gray")
+[
+    plt.plot(
+        d[1], d[0], "o", markerfacecolor="None", markeredgecolor="r", markersize=10
+    )
+    for d in detections[0]
+]
 plt.show()
 # %%
 # Predict positions for all frames
 
-frames = video_frames[:,:,:,0][..., np.newaxis]
+frames = video_frames[:, :, :, 0][..., np.newaxis]
 
 detections = model.predict_and_detect(
     frames[:, ::downsample, ::downsample, :],
@@ -74,7 +82,7 @@ np.save(
     detections,
 )
 # %%
-#test loading
+# test loading
 pos = np.load(
     "./detections/lodestar-detections-plankton1.npy",
     allow_pickle=True,
