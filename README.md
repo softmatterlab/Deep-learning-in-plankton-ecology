@@ -17,7 +17,7 @@ We provide examples of how to use deep learning for plankton data analysis. The 
 
 ### Detection-tutorials
 
-We provide three examples of plankton detection from microscopy videos using deep learning. The examples are provided as Jupyter notebooks and can be found in [Detection-tutorials](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/tree/main/detection-tutorials) folder. The pdf versions of the notebooks are included for quick preview. Alternatively, the notebooks can be run on Google Colab by clicking on the links below:
+We provide three examples of plankton detection from microscopy videos using deep learning. The examples are provided as Jupyter notebooks and can be found in [detection-tutorials](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/tree/main/detection-tutorials) folder. The pdf versions of the notebooks are included for quick preview. Alternatively, the notebooks can be run on Google Colab by clicking on the links below:
 
 1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/detection-tutorials/1-detection_plankton1.ipynb) [1-detection_plankton1.ipynb](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/detection-tutorials/1-detection_plankton1.ipynb) demonstrates the detection of plankton species _Oxyrrhis marina_ from microscopy videos.
 
