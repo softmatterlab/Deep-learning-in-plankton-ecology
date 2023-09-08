@@ -1,6 +1,7 @@
 # Deep-learning-powered data analysis in plankton ecology
 
-By Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert.
+By Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan
+Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
 
 The repository contains source code and data for the article, [Deep-learning-powered data analysis in plankton ecology](https://arxiv.org/)
 
@@ -8,9 +9,9 @@ The repository contains source code and data for the article, [Deep-learning-pow
 
 We provide examples of how to use deep learning for plankton data analysis. The examples are provided as Jupyter notebooks and can be run on Google Colab. The examples are divided into three categories:
 
-- Plankton detection
-- Plankton segmentation and classification
-- Plankton trajectory linking
+- `detection-tutorials`: For plankton detection from microscopy videos
+- `segmentation-tutorials`: For plankton segmentation and classification from microscopy images
+- `trajectory-tutorials`: For plankton trajectory linking from microscopy videos
 
 ## Installation
 
