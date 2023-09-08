@@ -1,5 +1,5 @@
 # %%
-# This code is not part of the tutorial, but is used to save the positions obtained from the LodeSTAR model, form trajectory linking application.
+# This code is not part of the tutorial, but is used to save the positions obtained from the LodeSTAR model, for trajectory linking application.
 
 import deeptrack as dt
 import numpy as np
