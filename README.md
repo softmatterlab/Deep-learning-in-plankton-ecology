@@ -27,7 +27,7 @@ We provide three examples of plankton detection from microscopy videos using dee
 
 ### Segmentation-tutorials
 
-### Trajectory-tutorials
+### Trajectory-linking-tutorials
 
 <!--
 The examples can be run on Google Colab. The notebooks can be run on a local machine by installing the following dependencies: -->
