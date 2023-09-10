@@ -27,10 +27,9 @@ We provide three examples of plankton detection from microscopy videos using dee
 
 ### Segmentation-tutorials
 
-In these set of tutorials, we will see how to generate simulated images & labels to train a deep learning model for plankton segmentation and classification.
+In these set of tutorials, we will see how to generate simulated datasets to train a deep learning model for plankton segmentation and classification. The examples are provided as Jupyter notebooks and can be found in [segmentation-tutorials](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/tree/main/segmentation-tutorials). The pdf versions of the notebooks are included for quick preview. Alternatively, the notebooks can be run on Google Colab by clicking on the links below:
 
-1. In the first tutorial notebook, we will see how to simulate images that look closer to experimental images using 'DeepTrack' software package.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/segmentation-tutorials/1-simulation_plankton.ipynb) [1-simulation_plankton1.ipynb](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/segmentation-tutorials/1-simulation_plankton.ipynb)
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/segmentation-tutorials/1-simulation_plankton.ipynb) [1-simulation_plankton.ipynb](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/segmentation-tutorials/1-simulation_plankton.ipynb) demonstrates how to simulate images that look closer to experimental images using 'DeepTrack' software package. In this tutorial, we simulate images of plankton species _Noctiluca scintillans_ and _Dunaliella tertiolecta_ and use the simulated images to train a deep learning model for segmentation and classification. The training code is provided in the next tutorial notebook.
 
 2. In the second tutorial notebook, how we train
 
