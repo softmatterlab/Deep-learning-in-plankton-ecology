@@ -11,6 +11,8 @@ import cv2
 import deeptrack as dt
 from PIL import Image
 
+#%%
+
 
 # exp_image = np.array(Image.open("../assets/noctiluca_image2.jpg"))
 # exp_image = cv2.cvtColor(exp_image, cv2.COLOR_BGR2GRAY)
@@ -144,25 +146,25 @@ image_and_labels = sample & masks1 & masks2
 #     >> dt.FlipLR()
 #     >> dt.FlipDiagonal()
 # )
+#%%
 
-
-# def generate_images():
-#     return image_and_labels
+def generate_images():
+    return image_and_labels
 
 
 # #%%
-# im, m1, m2 = generate_images().update()()
+im, m1, m2 = generate_images().update()()
 
-# # plt.imshow(im, cmap="gray")
-
-# fig = plt.figure(figsize=(10, 10))
-# plt.subplot(1, 3, 1)
 # plt.imshow(im, cmap="gray")
-# plt.subplot(1, 3, 2)
-# plt.imshow(m1[..., 0], cmap="gray")
-# plt.subplot(1, 3, 3)
-# plt.imshow(m2[..., 0], cmap="gray")
-# plt.show()
+
+fig = plt.figure(figsize=(10, 10))
+plt.subplot(1, 3, 1)
+plt.imshow(im, cmap="gray")
+plt.subplot(1, 3, 2)
+plt.imshow(m1[..., 0], cmap="gray")
+plt.subplot(1, 3, 3)
+plt.imshow(m2[..., 0], cmap="gray")
+plt.show()
 
 #%%
 fig = plt.figure(figsize=(10, 10))
