@@ -27,6 +27,12 @@ We provide three examples of plankton detection from microscopy videos using dee
 
 ### Segmentation-tutorials
 
+In these set of tutorials, we will see how to use simulated datasets to train a deep learning model for plankton segmentation and classification.
+
+1. In the first tutorial notebook, we will see how to simulate images that look closer to experimental images using 'DeepTrack' software package.
+
+2. In the second tutorial notebook, how we train 
+
 ### Trajectory-linking-tutorials
 
 <!--
