@@ -41,7 +41,7 @@ In these set of tutorials, we will see how to generate simulated datasets to tra
 
 If you use this code for your research, please consider citing our papers:
 
-1. <a href="Deep-learning-powered data analysis in plankton ecology" target="_blank">https://www.biorxiv.org/</a>
+1. <a href="https://www.biorxiv.org" target="_blank">/Deep-learning-powered data analysis in plankton ecology</a>
 
 ```
 Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
