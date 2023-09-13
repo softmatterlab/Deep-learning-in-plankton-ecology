@@ -37,4 +37,24 @@ In these set of tutorials, we will see how to generate simulated datasets to tra
 
 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/segmentation-tutorials/5-training_UNet_segmentation.ipynb) [5-training_UNet_segmentation.ipynb](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/segmentation-tutorials/5-training_UNet_segmentation.ipynb) demonstrates how to train a U-Net model for segmentation and classification of plankton species _Noctiluca scintillans_ and _Dunaliella tertiolecta_ using the simulated images generated in the previous tutorial. The trained model is then used to segment and classify the experimental images of the same species.
 
-### Trajectory-linking-tutorials
+## Citation
+
+If you use this code for your research, please consider citing our papers below:
+
+<a href="https://elifesciences.org/articles/79760" target="_blank">https://elifesciences.org/articles/79760</a>
+
+```
+Harshith Bachimanchi, Benjamin Midtvedt, Daniel Midtvedt, Erik Selander, Giovanni Volpe (2022).
+"Microplankton life histories revealed by holographic microscopy and deep learning."
+eLife 11:e79760.
+https://doi.org/10.7554/eLife.79760
+```
+
+See also [DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
+
+```
+Benjamin Midtvedt, Saga Helgadottir, Aykut Argun, Jesús Pineda, Daniel Midtvedt, Giovanni Volpe.
+"Quantitative Digital Microscopy with Deep Learning."
+Applied Physics Reviews 8 (2021), 011310.
+https://doi.org/10.1063/5.0034891
+```
