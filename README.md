@@ -41,7 +41,7 @@ In these set of tutorials, we will see how to generate simulated datasets to tra
 
 If you use this code for your research, please consider citing our papers:
 
-1. <a href="https://www.biorxiv.org" target="_blank">/Deep-learning-powered data analysis in plankton ecology</a>
+1. <a href="https://www.biorxiv.org" target="_blank">Deep-learning-powered data analysis in plankton ecology</a>
 
 ```
 Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
@@ -50,7 +50,7 @@ bioRxiv (2021).
 https://doi.org/
 ```
 
-2. <a href="Microplankton life histories revealed by holographic microscopy and deep learning" target="_blank">https://elifesciences.org/articles/79760</a>
+2. <a href="https://elifesciences.org/articles/79760" target="_blank">Microplankton life histories revealed by holographic microscopy and deep learning</a>
 
 ```
 Harshith Bachimanchi, Benjamin Midtvedt, Daniel Midtvedt, Erik Selander, Giovanni Volpe (2022).
