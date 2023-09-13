@@ -6,7 +6,7 @@ Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
 The repository contains source code and data for the article, [Deep-learning-powered data analysis in plankton ecology](https://arxiv.org/).
 
 <p align="center">
-  <img width="400" src=https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/1cb7a3147b2a1694e1e54373892fcbe3ffaa5134/assets/display_fig.png>
+  <img width="800" src=https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/1cb7a3147b2a1694e1e54373892fcbe3ffaa5134/assets/display_fig.png>
 </p>
 
 ## Description
