@@ -41,7 +41,7 @@ In these set of tutorials, we will see how to generate simulated datasets to tra
 
 If you use this code for your research, please consider citing our papers:
 
-1. <a href="https://www.biorxiv.org" target="_blank">Deep-learning-powered data analysis in plankton ecology</a>
+1. <a href="https://www.biorxiv.org" target="_blank">Deep-learning-powered data analysis in plankton ecology.</a>
 
 ```
 Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
@@ -50,7 +50,7 @@ bioRxiv (2021).
 https://doi.org/
 ```
 
-2. <a href="https://elifesciences.org/articles/79760" target="_blank">Microplankton life histories revealed by holographic microscopy and deep learning</a>
+2. <a href="https://elifesciences.org/articles/79760" target="_blank">Microplankton life histories revealed by holographic microscopy and deep learning.</a>
 
 ```
 Harshith Bachimanchi, Benjamin Midtvedt, Daniel Midtvedt, Erik Selander, Giovanni Volpe (2022).
@@ -59,7 +59,23 @@ eLife 11:e79760.
 https://doi.org/10.7554/eLife.79760
 ```
 
-See also [DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
+3. <a href="https://www.nature.com/articles/s41467-022-35004-y" target="_blank">Single-shot self-supervised object detection in microscopy.</a>
+
+```
+Midtvedt, B., Pineda, J., Skärberg, F. et al.
+"Single-shot self-supervised object detection in microscopy."
+Nat Commun 13, 7492 (2022).
+```
+
+4. <a href="https://www.nature.com/articles/s42256-022-00595-0" target="_blank">Geometric deep learning reveals the spatiotemporal features of microscopic motion.</a>
+
+```
+Jesús Pineda, Benjamin Midtvedt, Harshith Bachimanchi, Sergio Noé, Daniel  Midtvedt, Giovanni Volpe,1 and  Carlo  Manzo
+"Geometric deep learning reveals the spatiotemporal fingerprint ofmicroscopic motion."
+arXiv 2202.06355 (2022).
+```
+
+5. [DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
 
 ```
 Benjamin Midtvedt, Saga Helgadottir, Aykut Argun, Jesús Pineda, Daniel Midtvedt, Giovanni Volpe.
