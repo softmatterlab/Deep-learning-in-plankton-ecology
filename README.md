@@ -5,6 +5,10 @@ Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
 
 The repository contains source code and data for the article, [Deep-learning-powered data analysis in plankton ecology](https://arxiv.org/).
 
+<p align="center">
+  <img width="400" src=https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/1cb7a3147b2a1694e1e54373892fcbe3ffaa5134/assets/display_fig.png>
+</p>
+
 ## Description
 
 We provide examples of how to use deep learning for plankton data analysis. The examples are provided as Jupyter notebooks and can be run on Google Colab. The examples are divided into three categories:
@@ -34,14 +38,3 @@ In these set of tutorials, we will see how to generate simulated datasets to tra
 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/segmentation-tutorials/5-training_UNet_segmentation.ipynb) [5-training_UNet_segmentation.ipynb](https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/segmentation-tutorials/5-training_UNet_segmentation.ipynb) demonstrates how to train a U-Net model for segmentation and classification of plankton species _Noctiluca scintillans_ and _Dunaliella tertiolecta_ using the simulated images generated in the previous tutorial. The trained model is then used to segment and classify the experimental images of the same species.
 
 ### Trajectory-linking-tutorials
-
-<!--
-The examples can be run on Google Colab. The notebooks can be run on a local machine by installing the following dependencies: -->
-
-<!-- We provide ready-to-use code for the following tasks:
-
-- Plankton detection (Under the folder `Detection-examples`)
-- Plankton segmentation and classification (Under the folder `Segmentation-examples`)
-- Plankton trajectory linking (Under the folder `Trajectory-examples`)
-
-Google colab links for the respective examples will be added shortly. -->
