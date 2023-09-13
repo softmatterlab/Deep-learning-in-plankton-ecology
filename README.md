@@ -75,7 +75,8 @@ Jesús Pineda, Benjamin Midtvedt, Harshith Bachimanchi, Sergio Noé, Daniel  Mid
 arXiv 2202.06355 (2022).
 ```
 
-5. [DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
+See also DeepTrack 2.1 GitHub repository for other useful examples on using deep learning for microscopy data analysis:
+[DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
 
 ```
 Benjamin Midtvedt, Saga Helgadottir, Aykut Argun, Jesús Pineda, Daniel Midtvedt, Giovanni Volpe.
