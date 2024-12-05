@@ -3,7 +3,7 @@
 By Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan
 Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
 
-The repository contains source code and data for the article, [Deep-learning-powered data analysis in plankton ecology](https://arxiv.org/).
+The repository contains source code and data for the article, [Deep-learning-powered data analysis in plankton ecology](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10392).
 
 <p align="center">
   <img width="600" src=https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/1cb7a3147b2a1694e1e54373892fcbe3ffaa5134/assets/display_fig.png>
@@ -41,13 +41,13 @@ In these set of tutorials, we will see how to generate simulated datasets to tra
 
 If you use this code for your research, please consider citing our papers:
 
-1. <a href="https://www.biorxiv.org" target="_blank">Deep-learning-powered data analysis in plankton ecology.</a>
+1. <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10392" target="_blank">Deep-learning-powered data analysis in plankton ecology.</a>
 
 ```
-Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
+Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe (2024).
 "Deep-learning-powered data analysis in plankton ecology."
-bioRxiv (2021).
-https://doi.org/
+Limnol. Oceanogr. Lett, 9: 324-339.
+https://doi.org/10.1002/lol2.10392
 ```
 
 2. <a href="https://elifesciences.org/articles/79760" target="_blank">Microplankton life histories revealed by holographic microscopy and deep learning.</a>
