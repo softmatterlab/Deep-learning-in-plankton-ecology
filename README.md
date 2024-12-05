@@ -75,8 +75,7 @@ Jesús Pineda, Benjamin Midtvedt, Harshith Bachimanchi, Sergio Noé, Daniel  Mid
 arXiv 2202.06355 (2022).
 ```
 
-See also DeepTrack 2.1 GitHub repository for other useful examples on using deep learning for microscopy data analysis:
-[DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
+5. <a href="https://pubs.aip.org/aip/apr/article/8/1/011310/238663/Quantitative-digital-microscopy-with-deep-learning" target="_blank">Quantitative Digital Microscopy with Deep Learning.</a>
 
 ```
 Benjamin Midtvedt, Saga Helgadottir, Aykut Argun, Jesús Pineda, Daniel Midtvedt, Giovanni Volpe.
@@ -84,3 +83,6 @@ Benjamin Midtvedt, Saga Helgadottir, Aykut Argun, Jesús Pineda, Daniel Midtvedt
 Applied Physics Reviews 8 (2021), 011310.
 https://doi.org/10.1063/5.0034891
 ```
+
+See also DeepTrack 2.1 GitHub repository for other useful examples on using deep learning for microscopy data analysis:
+[DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
