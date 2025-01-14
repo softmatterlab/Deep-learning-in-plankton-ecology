@@ -3,7 +3,7 @@
 By Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan
 Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
 
-The repository contains source code and data for the article, [Deep-learning-powered data analysis in plankton ecology](https://arxiv.org/).
+The repository contains source code and data for the article, [Deep-learning-powered data analysis in plankton ecology](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10392).
 
 <p align="center">
   <img width="600" src=https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/1cb7a3147b2a1694e1e54373892fcbe3ffaa5134/assets/display_fig.png>
@@ -41,13 +41,13 @@ In these set of tutorials, we will see how to generate simulated datasets to tra
 
 If you use this code for your research, please consider citing our papers:
 
-1. <a href="https://www.biorxiv.org" target="_blank">Deep-learning-powered data analysis in plankton ecology.</a>
+1. <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10392" target="_blank">Deep-learning-powered data analysis in plankton ecology.</a>
 
 ```
-Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe.
+Harshith Bachimanchi, Matthew I. M. Pinder, Chloé Robert, Pierre De Wit, Jonathan Havenhand, Alexandra Kinnby, Daniel Midtvedt, Erik Selander and Giovanni Volpe (2024).
 "Deep-learning-powered data analysis in plankton ecology."
-bioRxiv (2021).
-https://doi.org/
+Limnol. Oceanogr. Lett, 9: 324-339.
+https://doi.org/10.1002/lol2.10392
 ```
 
 2. <a href="https://elifesciences.org/articles/79760" target="_blank">Microplankton life histories revealed by holographic microscopy and deep learning.</a>
@@ -75,8 +75,7 @@ Jesús Pineda, Benjamin Midtvedt, Harshith Bachimanchi, Sergio Noé, Daniel  Mid
 arXiv 2202.06355 (2022).
 ```
 
-See also DeepTrack 2.1 GitHub repository for other useful examples on using deep learning for microscopy data analysis:
-[DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
+5. <a href="https://pubs.aip.org/aip/apr/article/8/1/011310/238663/Quantitative-digital-microscopy-with-deep-learning" target="_blank">Quantitative Digital Microscopy with Deep Learning.</a>
 
 ```
 Benjamin Midtvedt, Saga Helgadottir, Aykut Argun, Jesús Pineda, Daniel Midtvedt, Giovanni Volpe.
@@ -84,3 +83,6 @@ Benjamin Midtvedt, Saga Helgadottir, Aykut Argun, Jesús Pineda, Daniel Midtvedt
 Applied Physics Reviews 8 (2021), 011310.
 https://doi.org/10.1063/5.0034891
 ```
+
+See also DeepTrack 2.1 GitHub repository for other useful examples on using deep learning for microscopy data analysis:
+[DeepTrack2.1](https://github.com/softmatterlab/DeepTrack-2.0/tree/master):
